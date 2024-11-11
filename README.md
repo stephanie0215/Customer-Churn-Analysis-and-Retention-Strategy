@@ -141,13 +141,13 @@ This project follows the workflow outlined below:
 ### Feature Engineering
 - Create variables that capture price differentials, reflecting customer price sensitivity.
 - Transform `datetime` features into numeric values representing the number of months (as integers).
-- For more details, please refer to the [Feature Engineering & Data Preprocessing.ipynb](https://example.com).
+- For more details, please refer to the [Feature Engineering & Data Preprocessing.ipynb](https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/blob/main/Feature%20Engineering%20%26%20Data%20Preprocessing.ipynb).
 
 ### Data Preprocessing
 - **Encoding Categorical Data**: Apply encoding techniques like one-hot encoding to convert categorical variables into numerical representations suitable for modeling.
 - **Addressing Skewness in Numerical Data**: Apply transformations to reduce skewness and align with model assumptions.
 - **Correlation Analysis**: Drop features with high correlation to ensure variable independence and avoid multicollinearity.
-- For more details, please refer to the [Feature Engineering & Data Preprocessing.ipynb](https://example.com).
+- For more details, please refer to the [Feature Engineering & Data Preprocessing.ipynb](https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/blob/main/Feature%20Engineering%20%26%20Data%20Preprocessing.ipynb).
 
 ### Modeling
 - Construct a **Random Forest** classification model.

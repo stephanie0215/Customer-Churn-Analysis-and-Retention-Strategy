@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/tree/main">
     <img src="./images/project.svg" alt="Customer Churn Analysis and Retention Strategy" width="500" height="100">
   </a>
 
@@ -117,7 +117,7 @@ To prevent overfitting while maintaining high accuracy, precision, and recall, w
 
 <div align="center">
 
-<a href="https://github.com/github_username/repo_name">
+<a href="https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/tree/main">
   <img src="./images/workflow.png" alt="workflow" width="500" height="150">
 </a>
 
@@ -136,7 +136,7 @@ This project follows the workflow outlined below:
 
 ### EDA
 - **Univariate Analysis**: Explore the distribution of each variable and analyze how `churn` is associated with each feature.
-- For more details, please refer to the [EDA.ipynb](https://example.com).
+- For more details, please refer to the [EDA.ipynb](https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/blob/main/EDA.ipynb).
 
 ### Feature Engineering
 - Create variables that capture price differentials, reflecting customer price sensitivity.
@@ -157,7 +157,7 @@ This project follows the workflow outlined below:
 - **Simplify the Model**: Reduce complexity by selecting only the most important features.
 - **Handle Imbalanced Data**: Use various resampling techniques to improve model performance.
 - **Formulate a Marketing Strategy**: Develop a strategy for customer retention and recommend the appropriate resampling method based on the marketing department’s budget constraints.
-- For more details, please refer to the [Modeling.ipynb](https://example.com).
+- For more details, please refer to the [Modeling.ipynb](https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/blob/main/Modeling.ipynb).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -215,7 +215,7 @@ This project follows the workflow outlined below:
 
 Yung-Hui (Stephanie Pan)- [@linkedin](https://www.linkedin.com/in/stephanieyhpan) - stephanie22335@gmail.com
 
-Project Link: [https://example.com](https://example.com)
+Project Link: [https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/tree/main](https://github.com/stephanie0215/Customer-Churn-Analysis-and-Retention-Strategy/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -97,7 +97,7 @@
 The most important variables for predicting customer churn are `Net Margin`, `Yearly Consumption`, and `Forecasted Consumption`. Notably, `Customer Price Sensitivity` was found **not** to be a key factor in predicting churn.
 
 2. **Retention Strategy**:
-To retain customers, we recommend offering a 20% discount to high-value customers—those with a net margin at or above the third quartile (Q3) and identified as being at risk of churning.
+To retain customers, we recommend offering a discount to high-value customers—those with a net margin at or above the third quartile (Q3) and identified as being at risk of churning.
 
 3. **Model Performance and Budget Impact**:
 Our model can help identify up to 65% of high-value customers who are likely to churn. Additionally, it significantly improves targeting precision compared to offering discounts to all high-value customers indiscriminately (baseline precision: 0.1).
